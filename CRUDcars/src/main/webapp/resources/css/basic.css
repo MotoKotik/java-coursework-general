@@ -1,5 +1,5 @@
 body {
-    background-color: #43dfff;
+    background-color: #CEF3FF;
     min-height: 100%;
     padding-top: 70px;
 }
@@ -18,7 +18,7 @@ th{
 }
 
 h1 > small{
-    color: white;
+    color: #EFDEF9;
 }
 
 
